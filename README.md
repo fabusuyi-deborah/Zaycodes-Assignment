@@ -1,4 +1,4 @@
-# How to get started with Twitter(X)
+# How to get started with X (formerly Twitter)
 
 Twitter(X) is a social media site for engaging with others, sharing thoughts and staying up to date with current events. It is a free social media and networking service, whose primary aim is to connect with people and communicate in short broadcast/posts known as **tweets**. This tweet could contain texts, images, videos, links or gifs.
 
@@ -7,7 +7,7 @@ Twitter is open to everyone including students, techies, job seekers, business o
 Leggo🚀🚀
 
 ### Setting up your Account
-Visit the website (Twitter.com) or Download the app on Play store or App store. Click on **"Sign up"** and enter your name(could be your nickname), phone number or email address (whichever one you prefer) and a password. 
+Visit the website (x.com) or Download the app on Play store or App store. Click on **"Sign up"** and enter your name(could be your nickname), phone number or email address (whichever one you prefer) and a password. 
 
 ### Customize your profile
 Your profile is often the first impression you make on Twitter, so setting up a good profile is important.  To set up a profile, follow these steps: 
